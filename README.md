@@ -25,5 +25,4 @@ They consist of 3 CSV files: beers.csv, breweries.csv, and reviews.csv
 * Karen Cenal
 
 ### <a name="code"></a>Code: 
-See -> CIS_5367_Project .ipynb
-https://github.com/danlopez89/CIS-5367/blob/main/CIS_5367_Project%20.ipynb
+See -> [CIS_5367_Project.ipynb](CIS_5367_Project.ipynb)
