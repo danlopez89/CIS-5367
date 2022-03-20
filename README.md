@@ -1,8 +1,8 @@
 # CIS-5367 Spring 2022 Project
-# Objective: 
+##### Objective: 
 To develop a machine learning process that will recommend beers to user based on their previous ratings of other beers. By recommending beers that these users are likely to enjoy, the Brewery will increase it's sales and revenue. 
 
-# Table of Contents
+## **Table of Contents**
 * [Presentation](#presentation)
 * [Data Source](#datasource)
 * [Team Members](#team-members)
