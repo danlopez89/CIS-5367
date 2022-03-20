@@ -6,7 +6,7 @@ To develop a machine learning process that will recommend beers to user based on
 * [Presentation](#presentation)
 * [Data Source](#datasource)
 * [Team Members](#team-members)
-* [Another](#another)
+* [Code](#code)
 
 ### <a name="presentation"></a>Presentation: 
 https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing
@@ -23,3 +23,6 @@ They consist of 3 CSV files: beers.csv, breweries.csv, and reviews.csv
 * Jason Oliver
 * John Greenhaw
 * Karen Cenal
+
+### <a name="code"></a>Code: 
+See 
