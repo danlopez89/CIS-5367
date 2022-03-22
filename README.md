@@ -12,14 +12,14 @@ To develop a machine learning process that will recommend beers to members based
 * [Team Members](#team-members)
 * [Code](#code)
 
-## <a name="presentation"></a>Presentation: 
-[Powerpoint presentation](https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing)
+## <a name="presentation"></a>Presentation:
+View our Powerpoint presentation [here](https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing)
 
 ## <a name="datasource"></a>Data Source:
 The data sources used in this project were downloaded from Kaggle at this URL:
 <br>https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=reviews.csv</br>
 
-They consist of 3 CSV files:
+Data source consists of 3 CSV files:
 - [beers.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=beers.csv)
 - [breweries.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=breweries.csv)
 - [reviews.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=reviews.csv)
