@@ -25,7 +25,7 @@ The data source consists of 3 CSV files:
 - [reviews.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=reviews.csv)
 
 ## <a name="quickstart"></a>Quick Start:
-We will be using Google Colaboratory for this project. 
+We will be using Google Colaboratory for this project.
 1. Go to https://colab.research.google.com/
 2. Click the tab GitHub and enter the repository address: https://github.com/danlopez89/CIS-5367
 3. Access our notebook by clicking the path labeled "CIS_5367_Project.ipynb."
