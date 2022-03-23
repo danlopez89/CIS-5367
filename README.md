@@ -8,7 +8,7 @@ To develop a machine learning process that will recommend beers to members based
 ## **Table of Contents**
 * [Presentation](#presentation)
 * [Data Source](#datasource)
-* [Getting Started](#gettingstarted)
+* [Quick Start](#quickstart)
 * [Team Members](#team-members)
 * [Code](#code)
 
@@ -19,13 +19,17 @@ View our Powerpoint presentation [here](https://docs.google.com/presentation/d/1
 The data sources used in this project were downloaded from Kaggle at this URL:
 <br>https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=reviews.csv</br>
 
-Data source consists of 3 CSV files:
+The data source consists of 3 CSV files:
 - [beers.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=beers.csv)
 - [breweries.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=breweries.csv)
 - [reviews.csv](https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews?select=reviews.csv)
 
-## <a name="gettingstarted"></a>Getting Started:
-Upload the [data sources](#datasource) to your Google drive under a folder labeled "data."
+## <a name="quickstart"></a>Quick Start:
+We will be using Google Colaboratory for this project. 
+1. Go to https://colab.research.google.com/
+2. Click the tab GitHub and enter the repository address: https://github.com/danlopez89/CIS-5367
+3. Access our notebook by clicking the path labeled "CIS_5367_Project.ipynb."
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/99715711/159639097-f8bdeaf3-811b-4acf-9df4-63ce011f3eee.png">
 
 ## <a name="team-members"></a>Team Members: 
 * Daniel Lopez
