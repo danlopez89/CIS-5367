@@ -14,7 +14,7 @@ To develop a machine learning process that will recommend beers to members based
 
 ## <a name="presentation"></a>Presentations:
 View our inital propsal presentation [here](https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing)
-<br>View our presentation on the Machine Learning System [here](https://docs.google.com/presentation/d/1SZaU3bJjyk6C48FtBMtY6Ngkjrjm2cas/edit?usp=sharing&ouid=112184050639432905025&rtpof=true&sd=true)
+<br>View our presentation on the Machine Learning System [here](https://txst-my.sharepoint.com/:p:/g/personal/kbc63_txstate_edu/EWYPaCCDdMNLt9sraEa0r6UBYGqOdFVu27Yw6wo0-qjYXg?e=jcKF1U)
 
 ## <a name="datasource"></a>Data Source:
 The data sources used in this project were downloaded from Kaggle at this URL:
