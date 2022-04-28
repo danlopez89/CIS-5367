@@ -12,10 +12,9 @@ To develop a machine learning process that will recommend beers to members based
 * [Team Members](#team-members)
 * [Code](#code)
 
-## <a name="presentation"></a>Presentation:
-View our Google Slide presentation [here](https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing)
-
-View our Powerpoint presentation on our Machine Learning System [here](https://docs.google.com/presentation/d/1SSnvVmzQmeMVJC8Fl3qANqaT2pl76YHT/edit?usp=sharing&ouid=112184050639432905025&rtpof=true&sd=true)
+## <a name="presentation"></a>Presentations:
+View our inital propsal presentation [here](https://docs.google.com/presentation/d/16uC5Oro4aASedkhtJf2YY8d_E9jJSqdJZLdwfkVkmkM/edit?usp=sharing)
+<br>View our presentation on the Machine Learning System [here](https://docs.google.com/presentation/d/1SZaU3bJjyk6C48FtBMtY6Ngkjrjm2cas/edit?usp=sharing&ouid=112184050639432905025&rtpof=true&sd=true)
 
 ## <a name="datasource"></a>Data Source:
 The data sources used in this project were downloaded from Kaggle at this URL:
